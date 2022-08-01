@@ -1,0 +1,3 @@
+raptor error - XML HTTP error: Unknown IO error - Not a valid HTTP URI
+raptor_www_test: WWW fetch failed
+PASS raptor_www_test (exit status: 0)

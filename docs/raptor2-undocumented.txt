@@ -1,0 +1,51 @@
+92% symbol docs coverage.
+496 symbols documented.
+1 symbols incomplete.
+44 not documented.
+
+
+RAPTOR_DEPRECATED
+raptor_new_world_internal (<parameters>)
+
+section-avltree:long_description
+section-avltree:short_description
+section-constants:long_description
+section-constants:short_description
+section-general:long_description
+section-general:short_description
+section-iostream:long_description
+section-iostream:short_description
+section-locator:long_description
+section-locator:short_description
+section-memory:long_description
+section-memory:short_description
+section-option:long_description
+section-option:short_description
+section-parser:long_description
+section-parser:short_description
+section-sax2:long_description
+section-sax2:short_description
+section-sequence:long_description
+section-sequence:short_description
+section-serializer:long_description
+section-serializer:short_description
+section-stringbuffer:long_description
+section-stringbuffer:short_description
+section-triples:long_description
+section-triples:short_description
+section-unicode:long_description
+section-unicode:short_description
+section-unused:long_description
+section-unused:short_description
+section-uri:long_description
+section-uri:short_description
+section-world:long_description
+section-world:short_description
+section-www:long_description
+section-www:short_description
+section-xml-namespace:long_description
+section-xml-namespace:short_description
+section-xml-qname:long_description
+section-xml-qname:short_description
+section-xml:long_description
+section-xml:short_description
